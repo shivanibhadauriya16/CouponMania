@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="75" height="75" viewBox="0 0 75 75">
+    <defs>
+        <clipPath id="thquq85cfa">
+            <path data-name="Rectangle 1038" style="fill:none" d="M0 0h32.492v35H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Group 2305" transform="translate(-206 -2614)">
+        <circle data-name="Ellipse 179" cx="37.5" cy="37.5" r="37.5" transform="translate(206 2614)" style="fill:#f5f8ff"/>
+        <g data-name="Group 2240">
+            <g data-name="Group 2239" transform="translate(227 2634)" style="clip-path:url(#thquq85cfa)">
+                <path data-name="Path 604" d="M30.421 15.788H2.61A1.61 1.61 0 0 1 1 14.178v-2.5a1.612 1.612 0 0 1 .726-1.346l13.827-9.07a1.612 1.612 0 0 1 1.761 0L31.3 10.334a1.612 1.612 0 0 1 .734 1.351v2.493a1.611 1.611 0 0 1-1.613 1.61z" transform="translate(-.27 -.27)" style="stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;fill:none"/>
+                <rect data-name="Rectangle 1037" width="30.866" height="5.642" rx="1.854" transform="translate(.896 28.628)" style="stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;fill:none"/>
+                <path data-name="Line 196" transform="translate(10.604 15.518)" style="fill:#fff" d="M0 0v13.11"/>
+                <path data-name="Line 197" transform="translate(10.604 15.518)" style="stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;fill:none" d="M0 0v13.11"/>
+                <path data-name="Line 198" transform="translate(16.246 15.518)" style="fill:#fff" d="M0 0v13.11"/>
+                <path data-name="Line 199" transform="translate(16.246 15.518)" style="stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;fill:none" d="M0 0v13.11"/>
+                <path data-name="Line 200" transform="translate(21.888 15.518)" style="fill:#fff" d="M0 0v13.11"/>
+                <path data-name="Line 201" transform="translate(21.888 15.518)" style="stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;fill:none" d="M0 0v13.11"/>
+                <path data-name="Line 202" transform="translate(4.962 15.518)" style="fill:#fff" d="M0 0v13.11"/>
+                <path data-name="Line 203" transform="translate(4.962 15.518)" style="stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;fill:none" d="M0 0v13.11"/>
+                <path data-name="Line 204" transform="translate(27.53 15.518)" style="fill:#fff" d="M0 0v13.11"/>
+                <path data-name="Line 205" transform="translate(27.53 15.518)" style="stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;fill:none" d="M0 0v13.11"/>
+            </g>
+        </g>
+    </g>
+</svg>
